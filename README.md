@@ -1,4 +1,5 @@
-# Udacity: Nanodegree Fundamentos em Data Science II - Projeto Preparar e Analisar Dados (API Twitter)
+# Udacity: Nanodegree Fundamentos em Data Science II
+## Projeto Preparar e Analisar Dados (API Twitter)
 
 Este diretório tem os arquivos que são utilizados para o desenvolvimento do projeto Preparar e Analisar Dados' do Nanodegree Fundamentos em Data Science II´.
 
