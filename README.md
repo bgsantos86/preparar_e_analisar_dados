@@ -15,4 +15,6 @@ Arquivo principal: wrangle_act.ipynp
 [Mitul2991](https://github.com/Mitul2991/Udacity-Project---Wrangling-and-analyzing-data-from-twitter-archives)</br>
 [bcko](https://github.com/bcko/Ud-DA-DataWrangling)</br>
 [kdow](https://github.com/kdow/WeRateDogs)</br>
-[sanjeevai](https://github.com/sanjeevai/Wrangle_and_Analyze_data)
+[sanjeevai](https://github.com/sanjeevai/Wrangle_and_Analyze_data)</br>
+[wanderly0501](https://github.com/wanderly0501/Data-Wrangling-of-WeRateDogs-Tweet-Archive)</br>
+[anoru](https://github.com/anoru/Wrangling-Data-WeRateDogs)
