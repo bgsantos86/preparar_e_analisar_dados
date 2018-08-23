@@ -1,2 +1,7 @@
-# preparar_e_analisar_dados
-Fazer wrangling dos dados de tweets de WeRateDoga para que você possa criar análises e visualizações interessantes e confiáveis. Sim, WeRateDogs nos deu acesso a seu arquivo de tweets, mas ele contém informações muito básicas. Coleta, avaliação e limpeza adicionais são necessárias para análises e visualizações que mereçam uma reação de "Uau!"
+# Udacity: Nanodegree Fundamentos em Data Science II - Projeto Preparar e Analisar Dados (API Twitter)
+
+Este diretório tem os arquivos que são utilizados para o desenvolvimento do projeto Preparar e Analisar Dados´ do Nanodegree Fundamentos em Data Science II.
+
+Objetivo: Preparar e analisar os dados da conta de twitter WeRateDogs para criar analises e visualizações interessantes e úteis. Os arquivos disponibilizado são ótimos, mas somente contém informações basicas. Adicionalmente foi obtido mais dados usando a API do Twitter, então foi realizada uma etapa de limpeza para que fosse possível visualizações e analises surpreendentes.
+
+Arquivo principal: wrangle_act.ipynp
