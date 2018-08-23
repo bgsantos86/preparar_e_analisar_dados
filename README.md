@@ -7,17 +7,12 @@ Objetivo: Preparar e analisar os dados da conta de twitter WeRateDogs para criar
 Arquivo principal: wrangle_act.ipynp
 
 ## Referencias & citações
+### Githubs
 [RedRock42](https://github.com/RedRock42/Udacity-Nanodegree-Portfolio/tree/master/P4.Wrangling%20%26%20Analyzing%20Twitter%20Data)</br>
-[latinacode](https://github.com/latinacode/Wrangle-and-Analyze-Data)
-
-[SThornewillvE](https://github.com/SThornewillvE/Udacity-Project---Data-Wrangling)
-
-[abodacs](https://github.com/abodacs/Wrangle-and-Analyze-Data-DAND-project)
-
-[Mitul2991](https://github.com/Mitul2991/Udacity-Project---Wrangling-and-analyzing-data-from-twitter-archives)
-
-[bcko](https://github.com/bcko/Ud-DA-DataWrangling)
-
-[kdow](https://github.com/kdow/WeRateDogs)
-
+[latinacode](https://github.com/latinacode/Wrangle-and-Analyze-Data)</br>
+[SThornewillvE](https://github.com/SThornewillvE/Udacity-Project---Data-Wrangling)</br>
+[abodacs](https://github.com/abodacs/Wrangle-and-Analyze-Data-DAND-project)</br>
+[Mitul2991](https://github.com/Mitul2991/Udacity-Project---Wrangling-and-analyzing-data-from-twitter-archives)</br>
+[bcko](https://github.com/bcko/Ud-DA-DataWrangling)</br>
+[kdow](https://github.com/kdow/WeRateDogs)</br>
 [sanjeevai](https://github.com/sanjeevai/Wrangle_and_Analyze_data)
